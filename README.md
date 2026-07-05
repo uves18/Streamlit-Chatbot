@@ -50,3 +50,6 @@ streamlit run main.py
 
 - The app currently uses the Hugging Face router endpoint with an OpenAI-compatible client.
 - If you want to switch models, update `HF_MODEL` in the environment or modify the model candidates in `main.py`.
+
+## Demo link
+https://drive.google.com/file/d/1zC0OAEKJkw82YwQFG87FLQ6KB0UgQTvf/view?usp=drive_link
